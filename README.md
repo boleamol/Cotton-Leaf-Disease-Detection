@@ -1,6 +1,7 @@
 # Cotton-Leaf-Disease-Detection
 This respository check whether leaf is having disease or not
 
+The dataset downloaded from: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 
 I have performed these experiments using Google colab and dataset are stored on my Google drive. So directory path is my Google drive path.
 
